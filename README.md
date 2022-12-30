@@ -33,5 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika1-cpu&show_icons=true&locale=en" alt="anamika1-cpu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika1-cpu&" alt="anamika1-cpu" /></p>
-<p><img align="center" src="[https://holopin.io/@anamika1cpu](https://holopin.me/anamikagour)" alt="anamika1-cpu" /></p>
-
+<a href="https://holopin.io/@anamikagour">
+  <img src="https://holopin.me/anamikagour" alt="@anamika's's Holopin board" />
+</a>
