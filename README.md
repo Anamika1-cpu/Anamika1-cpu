@@ -36,3 +36,7 @@
 <a href="https://holopin.io/@anamikagour">
   <img src="https://holopin.me/anamikagour" alt="@anamika's's Holopin board" />
 </a>
+<a href="https://holopin.io/@anamikagour>
+  <img src="https://holopin.me/anamika1cpu" alt="@anamika's's Holopin board" />
+</a>
+
