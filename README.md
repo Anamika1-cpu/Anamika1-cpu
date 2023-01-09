@@ -36,7 +36,5 @@
 <a href="https://holopin.io/@anamikagour">
   <img src="https://holopin.me/anamikagour" alt="@anamika's's Holopin board" />
 </a>
-<!-- <a href="https://holopin.io/@anamikagour">
-  <img src="https://holopin.me/anamika1cpu" alt="@anamika's's Holopin board" />
-</a> -->
+<a href="https://quine.sh/profile/anamika"><img src="https://stats.quine.sh/anamika/github" alt="anamika's GitHub stats" width="840px"></a>
 
