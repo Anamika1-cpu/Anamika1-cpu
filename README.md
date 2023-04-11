@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/anamika-gour-701a641a4**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1prrMsBz0nR7MiqcfRE1TabXZVxIH8IO4/view?usp=share_link](https://drive.google.com/file/d/1prrMsBz0nR7MiqcfRE1TabXZVxIH8IO4/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nlumrvh3eSep1kwxrTNhm3Z_lzwjpMhG/view?usp=sharing](https://drive.google.com/file/d/1nlumrvh3eSep1kwxrTNhm3Z_lzwjpMhG/view?usp=sharing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika1-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="anamika1-cpu" /> </p>
 
