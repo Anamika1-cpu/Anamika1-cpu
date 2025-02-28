@@ -1,3 +1,4 @@
+![logo](https://github.com/Anamika1-cpu/Anamika1-cpu/blob/main/Untitled%20design%20(4).png)
 <h1 align="center">Hi 👋, I'm Anamika</h1>
 <h3 align="center">A passionate Azure Data Engineer from India</h3>  
 
